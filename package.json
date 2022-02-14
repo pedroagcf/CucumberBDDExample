@@ -1,0 +1,14 @@
+{
+  "name": "CucumberBDDExample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedroagcf/CucumberBDDExample.git",
+  "author": "Pedro Augusto <26pedrocastro@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.2"
+  }
+}
